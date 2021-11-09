@@ -15,7 +15,7 @@ summary {
 	{%- if page.permalink == "/private/" -%}
 		<h1 style='text-align:center'> MENU </h1>
 		{% assign mydocs = site.private | group_by: 'category' %}
-		{% for cat in mydocs reversed%}
+		{% for cat in mydocs %}
 			{%- if cat.name != 'false' -%} 
 				<details class="second">
 					<summary>{{ cat.name | upcase }}</summary>

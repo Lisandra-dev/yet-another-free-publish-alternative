@@ -56,7 +56,7 @@ summary {
 	{%- if page.permalink == "/notes/" -%}
 		<h1 style='text-align:center'> MENU </h1>
 		{% assign mydocs = site.notes | group_by_exp: 'item', "item.category | downcase"  %}
-		{% for cat in mydocs reversed %}
+		{% for cat in mydocs %}
 			{%- if cat.name != 'false' -%} 
 				<details class="second">
 					<summary>{{ cat.name | upcase }}</summary>
