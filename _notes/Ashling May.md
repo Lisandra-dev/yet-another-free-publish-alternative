@@ -1,7 +1,6 @@
 ---
 alias: Ashling, Ash
 category: Fiche RP
-created: 12-06-2020
 date: 11-11-2021
 doc: Personnalisé
 genre: PJ

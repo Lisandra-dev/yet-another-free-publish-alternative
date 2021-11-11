@@ -1,6 +1,5 @@
 ---
 category: Fiche RP
-created: 05-11-2021
 date: 11-11-2021
 description: Références pour Hayleen May
 flux: true
