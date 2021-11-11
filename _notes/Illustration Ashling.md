@@ -1,12 +1,10 @@
 ---
 alias: Illustration
 category: false
-date: 12-10-2021
 flux: false
-link: https://owlly-house.netlify.app/notes/Illustration-Ashling
 share: true
 title: Illustration Ashling
-update: true
+update: false
 ---
 
 [[Ashling May::rmn-transclude]]

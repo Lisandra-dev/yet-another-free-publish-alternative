@@ -1,10 +1,9 @@
 ---
-category: Fiche RP
-date: 12-10-2021
+category: false
+date: 12-06-2021
 flux: false
-link: https://owlly-house.netlify.app/notes/Pouvoir
 share: true
-state: "\U0001F5D2️"
+state: ❌
 tag:
 - Ashling-May/Référence
 - RP/Fiche

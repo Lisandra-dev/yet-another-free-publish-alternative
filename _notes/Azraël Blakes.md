@@ -1,6 +1,6 @@
 ---
 category: Fiche RP
-date: 22-09-2021
+date: 29-06-2019
 doc: MD
 name: Azraël Blakes
 share: true
@@ -14,7 +14,7 @@ update: false
 ---
 
 ```dataview  
-table RP, status  
+table univers as RP, state  
 FROM [[Azraël Blakes]]  
    ```  
 ---  
@@ -90,7 +90,7 @@ Elle essaie aussi d'aider les gens à faire leurs deuils, mais elle considère q
 Elle a du mal à s'attacher aux autres, puisqu'elle sait qu'ils vont mourir et disparaître un jour, mais pas elle. Du coup, elle paraîtra avoir un tempérament mélancolique et solitaire, lorsqu'on apprend à la connaître.  
   
 **Apparence** :  
-![+side](../assets/img/752036651a8433ba637c2b66d4502b38.png)   
+![+side](../assets/img/752036651a8433ba637c2b66d4502b38.png)  
 Azraël possède, dans sa forme "normale", des cheveux noirs coupés courts dans un carré plongeant, entourant un visage doux. Elle possède un petit nez retroussée, et de grands yeux dorés, en amandes. Généralement, elle est vêtue d'une longue cape (la veste, pas une cape de super-héros !), avec un petit béret, lequel est entouré d'une sorte d'auréole composée de losange noirs. Les deux sont noirs, d'ailleurs. En dessous, des vêtements pratiques, tel qu'un pantalon ou une jupe et des collants...  
   
 Sa forme divine voit l'agrandissement de son auréole, l'apparition d'aile noire translucide, et d'autre losange l'encadrant.  

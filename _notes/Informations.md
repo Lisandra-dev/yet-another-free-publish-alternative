@@ -1,6 +1,6 @@
 ---
 category: Roleplay
-date: 11-11-2021
+date: 26-10-2021
 description: Info sur le mini rp Resident Evil
 flux: true
 obsidianUIMode: preview

@@ -1,8 +1,8 @@
 ---
 category: Fiche RP
-date: 16-09-2021
+date: 08-09-2019
+description: Fiche de Ambre Loiseau
 doc: iframe
-resume: Fiche de Ambre Loiseau
 share: true
 tag:
 - OC
@@ -13,6 +13,7 @@ tag:
 title: Ambre Loiseau
 type: OC
 univers: ❌
+update: false
 ---
 
 ```dataview  
@@ -114,7 +115,7 @@ Une montre connectée à sa peau qui analyse en permanence ses calories. Elle lu
 → Elle joue dans une série d’invasion zombie, elle sert en outre de consultante à la série.  
 → Son plat de base est les pâtes bolognaises. Elle est devenue très imaginative pour se faire des plats avec juste de la viande crue et des féculents.  
 → Elle a un tatouage sur l’épaule, en forme de double hélice de l’ADN. Elle a aussi un pentacle sur l’omoplate.  
-![+pins](../assets/img/018a0f8d69380a0a45810392e008187f.png)   
+![+pins](../assets/img/018a0f8d69380a0a45810392e008187f.png)  
   
 ## Goûts  
   

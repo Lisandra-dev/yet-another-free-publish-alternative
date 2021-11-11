@@ -1,6 +1,6 @@
 ---
 category: Roleplay
-date: 06-11-2021
+date: 11-10-2021
 description: Note diverses sur le groupe de l'Echo
 name: Echo
 share: true

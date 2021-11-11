@@ -1,6 +1,6 @@
 ---
-date: 05-09-2021
 category: Fiche RP
+date: 03-05-2021
 doc: MD
 name: Quinn Jazee
 share: true
@@ -14,18 +14,17 @@ tag:
 title: Quinn Jazee
 type: OC
 univers: ❌
+update: false
 ---
 
 ```dataview  
 Table RP, State  
 FROM [[Quinn Jazee]]  
-  
- ```  
+   ```  
 ---  
-![+pinsc4630a55340574be274a8906564d0796image/](../assets/img/c4630a55340574be274a8906564d0796.png)  
+![+pinsc4630a55340574be274a8906564d0796](../assets/img/c4630a55340574be274a8906564d0796.png)  
   
-  
-$$~$$  
+$~$  
 **Nom** :  Jazee  
 **Prénom** : Quinn  
   

@@ -1,7 +1,7 @@
 ---
 alias: Némo, Mnémosyne, Nemo, Mnemosyne
 category: Fiche RP
-date: 11-11-2021
+date: 21-09-2021
 description: Référence générale de Mnémosyne
 flux: true
 image: Mnémosyne

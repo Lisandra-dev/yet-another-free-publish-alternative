@@ -1,18 +1,18 @@
 ---
-date: 01-01-2015
 category: Guide
+date: 01-01-2015
 share: true
-tags:
+tag:
 - RP/Aide/Fiche
 - Écriture
-title: RP —  Guide création de personnage
+title: RP — Guide création de personnage
 toc: true
 type: aide
+update: false
 ---
 
 → [[RP —  Guide Fiche\|Guide rapide pour écrire une fiche]]  
-  
-  
+    
 # Caractéristiques physiques  
 - Taille  
 - Corpulence   
@@ -67,7 +67,7 @@ type: aide
 - Nom et âge du ou de la partenaire  
 - Quelles sont ses relations avec son/sa partenaire   
 - Noms et âges des enfants  
-- Quelles sont ses relations avec ses enfants    
+- Quelles sont ses relations avec ses enfants  
 - Autres membres de la famille  
 - grands-parents ou oncle, tante, cousin(e) qui ont une place importante dans le récit   
   

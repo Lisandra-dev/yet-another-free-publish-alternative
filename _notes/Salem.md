@@ -1,6 +1,6 @@
 ---
 category: Fiche RP
-date: 06-11-2021
+date: 27-08-2021
 description: Élement de références pour le personnage de Salem
 image: Salem
 share: true
