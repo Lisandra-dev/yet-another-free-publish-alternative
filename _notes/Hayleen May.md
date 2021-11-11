@@ -1,12 +1,10 @@
 ---
-alias: Hayleen, Hayleen May
 category: Fiche RP
 created: 05-11-2021
-date: 06-11-2021
+date: 11-11-2021
 description: Références pour Hayleen May
 flux: true
 image: Hayleen_portrait
-link: https://owlly-house.netlify.app/notes/Hayleen-May
 obsidianUIMode: source
 share: true
 title: Hayleen May
@@ -25,7 +23,8 @@ univers: ❌
   
 # Capacités  
 #### Pouvoirs et attributs  
-   Hayleen est une sorcière démone : elle est capable d’invoquer, via des incantations, plusieurs objets différents, qu’elle peut ensuite enchanter et renforcer.   
+   
+Hayleen est une sorcière démone : elle est capable d’invoquer, via des incantations, plusieurs objets différents, qu’elle peut ensuite enchanter et renforcer.   
 Son corps est naturellement plus agile, rapide, et solide qu’une personne “lambda”, notamment via l’utilisation de “circuit magique”, tatouages légèrement transparents qui parcourent l’ensemble de son corps, et qui deviennent rouges lorsqu’elle déploie sa magie.   
 En outre, en plus de pouvoir invoquer des objets, elle peut incanter pour renforcer des objets non-invoqués, mais aussi ses alliés et ami, ainsi qu’elle-même.   
   

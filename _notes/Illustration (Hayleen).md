@@ -1,7 +1,7 @@
 ---
 alias: Illustration
 category: false
-date: 06-11-2021
+date: 11-11-2021
 flux: false
 share: true
 title: Illustration (Hayleen)
@@ -9,7 +9,7 @@ type: Index
 univers: Azelyss
 ---
 
-OC:: [[20. Projet RP/23. Projet Raudhr/20. Fiches/Hayleen May/Hayleen May]]  
+OC:: [[Hayleen May]]  
     
 ![Gabrioche+grid](../assets/img/Hayleen May Portrait Gabrioche.jpeg)  
   
