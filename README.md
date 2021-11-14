@@ -1,19 +1,10 @@
-- [Notenote.link](#notenotelink)
-  * [What is this?](#what-is-this-)
-  * [What is different?](#what-is-different-)
-  * [How do I use this?](#how-do-i-use-this-)
-  * [How can I participate?](#how-can-i-participate-)
-  * [How do I customize this for my needs?](#how-do-i-customize-this-for-my-needs-)
-- [Python script](#python-script)
-  * [Requirements](#requirements)
-  * [Environment](#environment)
-- [Script](#script)
-- [Frontmatter and metadata](#frontmatter-and-metadata)
-  * [Script](#script-1)
-  * [Blog frontmatter options](#blog-frontmatter-options)
-- [Custom CSS](#custom-css)
----
 
+[![GitHub license](https://img.shields.io/github/license/Mara-Li/yet-another-free-publish-alternative)](https://github.com/Mara-Li/yet-another-free-publish-alternative/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/Mara-Li/yet-another-free-publish-alternative)](https://github.com/Mara-Li/yet-another-free-publish-alternative/network) ![GitHub top language](https://img.shields.io/github/languages/top/mara-li/yet-another-free-publish-alternative)
+![PyPI](https://img.shields.io/pypi/v/YAFPA?label=YAFPA)
+<p align="center"><a href="https://github.com/Mara-Li/YAFPA-python">Powerfull this template with YAFPA</a></p>
+
+---
 # Notenote.link
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/owlly-house/deploys)
@@ -23,7 +14,7 @@ A digital garden using a custom version of `simply-jekyll`, optimised for integr
 
 [**DEMO**](https://master--owlly-house.netlify.app/)
 
-If you want to see a more refined example, you can check my notes (in french) at [arboretum.link](https://www.arboretum.link/). Build time is approx. 15 seconds, FYI.
+If you want to see a more refined example, you can check my notes (in french) at [owlly-house](https://www.owlly-house.netlify.app/). 
 
 Issues are welcome, including feedback ! Don't hesitate to ask if you can't find a solution. 💫
 
@@ -56,6 +47,7 @@ Open an issue to share feedback or propose features. Star the repo if you like i
 Things to modify to make it yours:
 
 - The favicon and profile are here: [assets/site/](assets/site)
+- You can change the header in [assets/site/](assets/site) (don't forget the name) and/or [change this line](https://github.com/Mara-Li/yet-another-free-publish-alternative/blob/9d8ae99d867be79a45b5bfbf687e03b95bf8ebd2/assets/css/style.css#L301)
 - The main stuff is in [\_config.yml](_config.yml):
     ```yaml
     title: My obsidian notebook
@@ -78,21 +70,15 @@ Things to modify to make it yours:
 On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
 
 # Python script
+
 Having files written in Markdown on Obsidian, I created a python script in order to semi-automatically share selected file, not all file, in my blog. 
 To install it use `pip install YAFPA`
 
-[You can have more information here](https://pypi.org/project/YAFPA/)
+[You can have more information here](https://pypi.org/project/YAFPA/) and you can work on the script [here](https://github.com/Mara-Li/YAFPA-python).
 
-## Requirements
-- [Python](https://www.python.org/)
-- [PyGithub](https://github.com/PyGithub/PyGithub)
-- [Python-dotenv](https://github.com/theskumar/python-dotenv)
-- [python-frontmatter](https://github.com/eyeseast/python-frontmatter)
-- [Pyperclip](https://github.com/asweigart/pyperclip) on Windows/MacOS/Linux | IOS : Pasteboard (Pyto) or clipboard (Pythonista)
-You can install all with `pip install -r requirements.txt`
+You need to have python 3.8 on your computer, and `pip` need to be in your PATH.
 
 ## Environment
-
 The first time you use the script, it will ask you three things :
 - Your vault path (absolute path !)
 - The path of the blog (absolute too !)
@@ -101,8 +87,19 @@ The first time you use the script, it will ask you three things :
 The script will be in `$HOME/.YAFPA-env` so you can edit it with VIM/notepad/your hands…
 You can also edit it with `yafpa --config`
 
-# Script
-usage: yafpa [-h] [--preserve | --update] [--filepath FILEPATH] [--git] [--keep] [--config]
+The environment file looks like that :
+```
+vault=
+blog_path=
+blog=
+```
+With :
+- `vault`: Vault Absolute Path
+- `blog_path` : Blog repository absolute path
+- `blog` : Blog link
+
+## Usage
+`usage: yafpa [-h] [--preserve | --update] [--filepath FILEPATH] [--git] [--keep] [--config]`
 
 Create file in folder, move image in assets, convert to relative path, add share support, and push to git
 
@@ -117,6 +114,7 @@ optional arguments:
 
 # Frontmatter and metadata
 ## Script
+
 The script work with the frontmatter :
 - `share: true` : Share the file
 - `embed: false` : remove the transluction (convert to normal wikilinks)
@@ -127,7 +125,7 @@ The script work with the frontmatter :
 ## Blog frontmatter options
 - `flux: false` : remove the file from the feed
 - `category` : Add a category for the category page ; `category: false` remove it from this page too.
-- `resume` : Add a resume of the file in the feed. 
+- `description` : Add a description of the file in the feed. 
 
 ### Folder options
 The metadata key `folder` allow to use another folder than `_note`. There is several steps before you can fully use this options :
@@ -147,7 +145,7 @@ The metadata key `folder` allow to use another folder than `_note`. There is sev
     values: 
       layout: post
       content-type: notes
-```
+  ```
 3. Duplicate the `private.md` and rename it with the folder name you want. 
    1. In this new file, change the line `{%- if page.permalink == "/private/" -%}` for `{%- if page.permalink == "/folder_name/" -%}` 
    2. Change the `permalink` key with `permalink: /folder_name/` 
@@ -169,3 +167,69 @@ To add custom tag to customize your text, you need to edit the `custom.css` file
 }
 ```
 The script will read the file and change `#tag_name` to `{: .tag_name}`. 
+
+# Customize the script
+## Custom Admonition
+The file [`custom_admonition`](https://github.com/Mara-Li/yet-another-free-publish-alternative/blob/master/assets/script/custom_admonition.yml) allow you to create custom admonition for the script.
+The template is :
+```yml
+- admonition_type: #Admonition plugin, same name
+    - logo #emoji, ASCII...
+    - admonition_title #As in admonition plugin
+```
+
+A reference of logo used in the original script :
+- Note, seelaso : 🖊️
+- Abstract, summary, tldr: 📝
+- info, todo: ℹ️
+- tip, hint, important: 🔥
+- success, check, done: ✨
+- question, help, faq: ❓
+- warning, caution, attention: ⚠️
+- failure, fail, missing: ❌
+- danger, error: ⚡
+- bug: 🐛
+- example, exemple: 📌
+- quote, cite: 🗨️
+
+## Exclude folder
+Sometimes, you want to exclude folder for privacy, or just because you move a file in your archive, and forgot about the share state !
+So, you can exclude folder with [`exclude_folder`](https://github.com/Mara-Li/yet-another-free-publish-alternative/blob/master/assets/script/exclude_folder.yml).
+
+The template is :
+```yml
+- folder_name
+- folder_name2
+```
+(yes, it is just a list
+
+⚠ File in excluded folder are deleted in the blog.
+
+# Obsidian 
+→ Please use Wikilinks with "short links" (I BEG YOU)
+You can integrate the script within obsidian using the nice plugin [Obsidian ShellCommands](https://github.com/Taitava/obsidian-shellcommands).
+
+You could create two commands :
+1. `share all` : `yafpa`
+2. `share one` : `yafpa --f {{file_path:absolute}}`
+
+You can use :
+- [Customizable Sidebar](https://github.com/phibr0/obsidian-customizable-sidebar)
+- [Obsidian Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu)
+To have a button to share your file directly in Obsidian !
+
+#### Template frontmatter
+→ The • indicate that this value is optional
+```yaml
+title: My files•
+date: 12-11-2021•
+embed: true•
+update: true•
+current: true•
+folder: notes•
+flux: true•
+share: false 
+category: Notes
+description: my awesome file
+```
+You can use MetaEdit / Supercharged links to quickly update the front matter. 
