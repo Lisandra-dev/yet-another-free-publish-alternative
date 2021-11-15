@@ -102,13 +102,13 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
   
 ### ◌ Inconvénients ◌  
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts.   
-- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne**Trivia**{: #Trivia}{: .hash}|trivia]])*  
-	De plus, elle a tendance à se cogner partout.  
+- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne#Trivia\|trivia]])*  
+  	De plus, elle a tendance à se cogner partout.  
 - Son pouvoir aveugle allié et ennemi.  
 - Elle ne peut récupérer, d'aucune manière, la vue.   
 - Son auréole est permanente et l'empêche de porter de chapeau. Si elle essaie, "elle a une migraine d'enfer, un peu comme être le passager du pire conducteur de la planète, tout en ayant la pire gueule de bois de sa vie."  
 - Némo est amnésique, bien que cela n'impacte finalement peu sur ses capacités de combat.   
-- **Elle ne sait pas qu'elle est déchue.  
+- **Elle ne sait pas qu'elle est déchue.**  
 - [[Il lui est impossible de contrôler Obsius::highlight]]   
 - [[Sous forme Obsius, elle devient extrêmement sensible à la lumière, et il lui est impossible de faire appel aux ténèbres en cas de forte lumière.::highlight]]   
   
