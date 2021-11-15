@@ -54,4 +54,4 @@ univers: ❌
 # ─────༺ Relation ༻──────  
 - Ami / Ex/Meuf de [[Salem]]  
   - Maître en magie de [[Hayleen May]]  
-  - Membre de l'[[Echo]] **Chevalier**{: #Chevalier}{: .hash}
+  - Membre de l'[[Echo (Moderne)]] **Chevalier**{: #Chevalier}{: .hash}
