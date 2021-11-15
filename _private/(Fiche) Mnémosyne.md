@@ -10,25 +10,25 @@ title: Mnémosyne
 type: fiche
 ---
 
-# ╔═══━━━─── • ───━━━═══╗  
-# $\qquad$$\qquad$ I n t r o d u c t i o n  
-# ╚═══━━━─── • ───━━━═══╝  
+# <center>╔═══━━━─── • ───━━━═══╗</center>  
+# <center> I n t r o d u c t i o n</center>  
+# <center>╚═══━━━─── • ───━━━═══╝</center>  
 Nom & Prénom :  
 Âge :  
 Taille :  
 Race :  
 Statut :  
   
-# ╔═══━━━─── • ───━━━═══╗  
-# $\qquad$$\qquad$ D e s c r i p t i o n s  
-# ╚═══━━━─── • ───━━━═══╝  
-##   $\qquad$$\qquad$──────༺ Mental ༻──────   
+# <center>╔═══━━━─── • ───━━━═══╗</center>  
+#  <center> D e s c r i p t i o n s </center>  
+# <center>╚═══━━━─── • ───━━━═══╝</center>  
+## <center>──────༺ Mental ༻──────</center>   
   
 **Aime** :   
 **Déteste** :  
 **Peurs et phobies :**   
   
-## $\qquad$$\qquad$──────༺ Physique ༻──────  
+## <center>──────༺ Physique ༻──────</center>  
 **Yeux** :   
 **Cheveux** :   
 **Taille** :   
@@ -38,16 +38,16 @@ Statut :
 **Cicatrice** :   
 **Style vestimentaire** :  
   
-# ╔═══━━━─── • ───━━━═══╗  
-# $\qquad$$\qquad$$\quad$$~~~~$ H i s t o i r e  
-# ╚═══━━━─── • ───━━━═══╝  
+# <center>╔═══━━━─── • ───━━━═══╗</center>  
+# <center>H i s t o i r e</center>  
+# <center>╚═══━━━─── • ───━━━═══╝</center>  
   
-# ╔═══━━━─── • ───━━━═══╗  
-# $\qquad$$\qquad$$\quad$$~~~~$ P o u v o i r s   
-# ╚═══━━━─── • ───━━━═══╝  
-## $\qquad$$\qquad$──────༺ Attributs généraux ༻──────  
+# <center>╔═══━━━─── • ───━━━═══╗</center>  
+# <center> P o u v o i r s</center>   
+# <center>╚═══━━━─── • ───━━━═══╝</center>  
+## <center>──────༺ Attributs généraux ༻──────</center>  
   
-## $\qquad$$\qquad$──────༺ Capacités ༻──────  
+## <center>──────༺ Capacités ༻──────</center>  
   
 ❖ — **Nom** _(Passif)_ — ❖  
 *Description*  
