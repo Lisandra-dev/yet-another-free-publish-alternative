@@ -13,11 +13,11 @@ type: fiche
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center> I n t r o d u c t i o n</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
-Nom & Prénom :  
-Âge :  
-Taille :  
-Race :  
-Statut :  
+**Nom & Prénom :**  
+**Âge :**  
+**Taille :**  
+**Race :**  
+**Statut :**  
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 #  <center> D e s c r i p t i o n s </center>  
