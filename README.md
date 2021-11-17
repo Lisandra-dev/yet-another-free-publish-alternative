@@ -128,7 +128,13 @@ The script work with the frontmatter :
 - `description` : Add a description of the file in the feed. 
 
 ### Folder options
-The metadata key `folder` allow to use another folder than `_note`. There is several steps before you can fully use this options :
+The metadata key `folder` allow to use another folder than `_note`.
+
+There are two ways to create the files needed to use this option: 
+- You can use the little python script in `assets/script`, with : `python3 assets/script/folder.py folder_name`
+- You can use the long way, modify the `_config.md` file and creating folder and main page. 
+
+Here is the steps for the long way :
 1. Create a new folder with the name you want, prefixed with `_` (as `_notes` or `_private`)
 2. Add to the `_config.yml` : 
    1. collection : 
@@ -152,6 +158,9 @@ The metadata key `folder` allow to use another folder than `_note`. There is sev
    3. change `{% assign mydocs = site.folder_name | group_by: 'category' %}`
 
 And there is it !
+
+Note : Git don't push empty folder. So, don't forget to create an empty file.
+(The python script will do it for you.)
 
 **Notes about Private folder** : the private folder doesn't have a page, and doesn't appear in the feed or in search. The only way to access it is with the link (adding `/private` at the end) 
 
