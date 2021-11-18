@@ -4,13 +4,18 @@ date: 15-11-2021
 description: Fiche de Mnémosyne, adaptée à Légendia
 flux: true
 folder: private
+image: Mnémosyne
 obsidianUIMode: source
 share: true
 title: Mnémosyne
 type: fiche
 ---
 
-→ [[◈ Mnémosyne ◈\|Carnet]]  
+```dataview  
+LIST   
+FROM [[(Fiche) Mnémosyne]] or [[◈ Mnémosyne ◈]]  
+  WHERE type != "fiche"  
+```  
   
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
@@ -29,17 +34,21 @@ type: fiche
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
 ## <center>──────༺ Mental ༻──────</center>   
   
-$\qquad$ Dans sa jeunesse, Mnémosyne était plus chaotique que maintenant. Détestant l'ordre et adorant le chaos, elle n'hésita pas à trahir son camp par simple amusement. Car l'ordre des choses l'ennuie.  
-Aujourd'hui, Mnémosyne est plus calme, mais elle n'aime pas suivre les gens et ordre aveuglément, ce qui font qu'elle est très difficile à contrôler pour l'[[20. Projet RP/23. Légendia/10. Univers/Echo\|Echo]], qui la garde sous surveillance tout en lui laissant bien plus de liberté que la plupart des membres ayant un grade similaire.  
-    
-$\qquad$ Sa condition d'aveugle ne la dérange en rien, et elle aime s'en amuser, n'hésitant pas à en rire. Son amnésie, par contre, bien qu'elle n'aime pas le montrer, lui pose problème. La recherche de sa mémoire est actuellement sa quête principale, et elle a l'impression qu'aider l'Écho l'aidera dans cette tâche. Sinon, étant donné son caractère désinvolte et versatile, elle ne ferait pas partie d'une organisation aussi hiérarchisée avec une mission qu'elle considère comme un poil utopique.  
   
-$\qquad$Mais il ne faut pas non plus imaginer Mnémosyne comme une personne sans cœur et égoïste, puisqu'elle n'hésitera pas à venir en aide à une personne dans le besoin, quel qu'il soit.  
-Dans les faits, Mnémosyne se fiche royalement de la race des gens. Après tout, elle ne les voit même pas !  
-Bien qu'elle raconte qu'elle n'est pas habitée de désir noble comme certains membres de l'[[20. Projet RP/23. Légendia/10. Univers/Echo\|Echo]], elle n'est pas non plus à laisser tomber les gens avec qui elle s'entend. Ce n'est pas non plus une personne lâche et paraît versatile, car incapable de se fixer quelque part.  
-  Durant sa guerre, par contre, c'était autre chose, car elle avait un tempérament bien plus chaotique et a trahis son propre camps littéralement par amusement (à ce qu'on raconte, puisque aujourd'hui, elle n'en sait strictement rien !).  
   
-Elle a un tempérament presque acerbe, n'hésitant pas à ironiser sur sa condition mais aussi railler les gens sur leurs défauts supposé. Elle n'hésite pas à frapper les malendrin avec sa canne, mais elle est plus du genre beau-parleur que dans l'action.... Sauf si cela devient nécessaire. Elle est plutôt agréable à vivre, mange presque de tout et s'amuse avec presque tout.  
+$\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.  
+  
+Elle aime s'amuser, et est donc amusante pour son entourage. Elle aime rire, et n'hésite pas à se moquer de sa condition d'aveugle ou d'amnésique. C'est le genre de personne décalée, qui exagère volontairement sa maladresse et qui paraît tête en l'air.  
+En vérité, elle réfléchit et note tout, mais elle apprécie se faire passer pour plus faible qu'elle est au maximum. Elle fait cela car il est plus facile de se faire un avis sur les gens face à la faiblesse que la force.   
+  
+$\qquad$Ses amis et entourage sont importants pour elle, et pour rien au monde elle ne les laissera tomber. Cela dit, elle n'hésiterait pas à aller contre eux si elles trouvent que leur décision sont "complètement connes". Elle n'a pas sa langue dans sa poche, malgré son air fragile et d'oiseau tombé du nid.   
+  
+Notons qu'elle n'hésite pas à frapper du malandrin avec sa canne même si elle est plus du genre beau-parleur que dans l'action. Sauf si cela devient réellement nécessaire.  
+Elle utilisera sa magie, à pleine puissante, qu'en dernier recours, et si elle n'a pas d'allier à disposition pour la défendre ou se défendre.  
+Elle tient énormément à faire tenir sa fausse faiblesse, quitte à omettre certains détails quant à ses pouvoirs.   
+  
+$\qquad$Elle n'ira **jamais** volontairement mentir, et ne mentira que par omission. Jamais elle ne mentira, elle en est **incapable**. Au point de s'en rendre malade, et d'en vomir.   
+Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à faire.  
   
 ###### Aime :  
 - La musique  
@@ -51,6 +60,7 @@ Elle a un tempérament presque acerbe, n'hésitant pas à ironiser sur sa condit
 - Les escaliers  
 - Les pommes  
 - Les insectes  
+- Mentir, et les mensonge.   
   
 ###### Trivia :  
 - Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.  
@@ -61,19 +71,33 @@ Elle a un tempérament presque acerbe, n'hésitant pas à ironiser sur sa condit
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.  
   
 ## <center>──────༺ Physique ༻──────</center>  
+![+side](../assets/img/Mnemosyne.png)*Taille* : 1m80  
+*Poids* : 60 kg  
+*Yeux* : Translucide  
+*Cheveux* : Gris — Bleuté  
+*Peau* : Pâle, blanche  
+*Traits notables* : Petite tâche de rousseur sur l'ensemble du visage  
+*Cicatrice* : Aucune, ce qui la rend **étrange**  
   
-**Yeux** :   
-**Cheveux** :   
-**Taille** :   
-**Poids** :   
-**Peau** :   
-**Traits notables** :   
-**Cicatrice** :   
-**Style vestimentaire** :  
+Mnémosyne est une femme de grande taille, mais assez poids-plume : De fait, elle apparaît parfois comme une sorte de squelettes sur patte, et elle joue beaucoup sur cette apparence.   
+Sa peau est pâle et ses cheveux gris sont coiffés absolument dans tous les sens — bien que plutôt long.   
+Elle a une démarche plutôt droite, malgré le fait qu'elle s'aide tout le temps de sa canne d'aveugle. Niveau voix, on va dire qu'elle a des accents grincheux et légèrement grinçant. Difficile à expliquer. Comme si elle avait un léger grain dans la voix. Sinon, elle sourit quasiment tout le temps.  
+  
+Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues.   
+Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs.   
+  
+**Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.   
+Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.   
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
+  
+
+
+  
+Spoiler ! Non, elle meurt pas. Le mec se barre alors qu'elle est empoisonné parce que flemme de l'achever, j'ai trop d'égo on se sait. Donc, il va voir ailleurs si j'y suis, et Obsius passe par là **COMME PAR HASARD** et, vu que c'est un animal blessé, fusionne avec Némo parce que ben, aucun des deux veut mourir.   
+  
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center> P o u v o i r s</center>   
