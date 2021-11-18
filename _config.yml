@@ -28,6 +28,7 @@ kramdown:
   - quot
   syntax_highlighter: rouge
   default_lang: markdown
+  transliterated_header_ids: true
 sass:
   style: compressed
 collections:
