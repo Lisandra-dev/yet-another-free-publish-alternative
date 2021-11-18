@@ -54,7 +54,8 @@ def create_page(folder):
 
     try:
         os.mkdir(basedir / f"_{folder}")
-        open(basedir/'.push', 'a').close()
+        with open(basedir/'404.md', 'w') as page:
+            page.write('---\nlayout: post\npermalink: /404.html\ncategory: false\nflux: false\n---\n**Page not found :(**\n')
     except FileExistsError:
         print("The folder already exists")
         pass
