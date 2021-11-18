@@ -106,7 +106,6 @@ or page.content-type == "post" -%}
 {%- if page.title != "Tags" -%}
 <script>for(let h of
     document.querySelectorAll('h1[id],h2[id],h3[id],h4[id], h5[id], h6[id]')) {
-  console.log(h);
   h.innerHTML+=` <a href="#${h.id}" aria-hidden="true">#</a>`;
 }
 </script>
