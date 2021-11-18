@@ -10,7 +10,7 @@ univers: Resident Evil
 ---
 
 [Serveur](https://discord.gg/qGKFutdY4R)  
-    
+  
 ---  
 *La tempête faisait rage, le vent s'était levée deux heures plus tôt et de haute et lourde vague frappait les digues de la petite ville portuaire.   
 La nuit noire était tombée depuis longtemps, plongeant la ville dans un silence apocalyptique.*  

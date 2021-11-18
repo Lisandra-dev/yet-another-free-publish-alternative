@@ -16,7 +16,7 @@ $~$
 ```dataview  
 table state AS Status  
 FROM [[Ashling May]]  
-  where type = "Fiche"  
+where type = "Fiche"  
 ```  
   
 ---  
@@ -38,7 +38,7 @@ FROM [[Ashling May]]
   
 # ──────༺ Physique ༻──────  
 → [[Illustration Ashling\|Références]]  
-    
+  
 **Yeux** : Bleus  
 **Cheveux** : Roux, longs, souvent attachés en chignons   
 **Taille** : 1m70  
@@ -123,5 +123,5 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 - Elle élève une grenouille. Oui.  
   
 # [[Pouvoir]]  
-    
+  
 [[Pouvoir::rmn-transclude]]

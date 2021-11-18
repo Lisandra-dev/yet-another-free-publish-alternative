@@ -46,5 +46,5 @@ Membre de l'Écho depuis sa fondation, il a décidé de maintenir le statu quo a
 ---  
 # ──────༺ Relations ༻──────  
 - Père adoptif de [[Hayleen May]]  
-  - Ex-Ami-Mec de [[Zéphyr]]  
-  - Chef [[Echo (Moderne)]] : Chevalier
+- Ex-Ami-Mec de [[Zéphyr]]  
+- Chef [[Echo (Moderne)]] : Chevalier

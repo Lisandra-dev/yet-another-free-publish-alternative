@@ -10,7 +10,7 @@ univers: Resident Evil
 ---
 
 [Serveur](https://discord.gg/qGKFutdY4R)  
-    
+  
 <u>Lieu</u> : Windport — Côte West des USA  
 <u>Météo</u> : Un typhon est en cours   
 <u>Timeline</u> : Une semaine après la dispersion initiale du virus.  

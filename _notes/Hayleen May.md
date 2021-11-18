@@ -4,7 +4,7 @@ date: 18-05-2020
 description: Références pour Hayleen May
 flux: true
 image: Hayleen_portrait
-obsidianUIMode: source
+obsidianUIMode: preview
 share: true
 title: Hayleen May
 univers: ❌
@@ -78,11 +78,11 @@ Elle adopte le nom de Grimalkin lors de “son passage à l’âge adulte”, bi
 # Physique  
   
 →  [[Illustration (Hayleen)\|Illustration]]  
-    
+  
 *Taille* : 1m70  
 *Poids* : 60kg  
 ![+side](https://lh5.googleusercontent.com/YGkLl1TAv5q7Z5DXwwNlFJwuAjUUVv217w6Nd9uygb-fkhd4GZkXiqC25wy5Ehpr7tW1rwqiZlnLGaNL7vFiKgMflX-ILFLfJv2Dk0J8ImFEimxJs0ufmTOJX44LiddjGQdGSsdM)  
-  Hayleen est une jeune femme assez bien proportionnée, dans la fleur de l’âge, et qui le fait : c’est une jolie jeune femme.  
+Hayleen est une jeune femme assez bien proportionnée, dans la fleur de l’âge, et qui le fait : c’est une jolie jeune femme.  
   
 La jeune sorcière a des cheveux blancs (naturellement blanc, s’entend), assez longs, qu’elle attache souvent en chignons brouillons à l’aide d’aiguilles métalliques, et laissant les autres lâchés. Son visage est seulement dégagé avec de nombreuses barrettes. Elle a une démarche assurée et un air volontaire. Évidemment, on voit rarement ses chignons, puisqu’elle possède d’imposante cornes noires, semblables à celles que possèderait un bélier. Ces dernières ne la gênent pas particulièrement, bien qu’elle ait l’impression qu’on ne voit que ça sur son visage.   
   

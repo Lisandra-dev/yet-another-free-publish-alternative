@@ -14,7 +14,7 @@ type: fiche
 ```dataview  
 LIST   
 FROM [[(Fiche) Mnémosyne]] or [[◈ Mnémosyne ◈]]  
-  WHERE type != "fiche"  
+WHERE type != "fiche"  
 ```  
   
   
@@ -33,7 +33,6 @@ FROM [[(Fiche) Mnémosyne]] or [[◈ Mnémosyne ◈]]
 #  <center> D e s c r i p t i o n s </center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
 ## <center>──────༺ Mental ༻──────</center>   
-  
   
   
 $\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.  
@@ -93,11 +92,12 @@ Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron,
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
   
-
-
+%% Clan Sanktae  
+Guerre entre clan pour raison X parce que *trouver une raison wesh*, peut être petite ref Sarkaz/démon/autre race tmtc %%  
+%% Trahit son propre clan en faveur de l'autre, pique l'arme, on sait comment sa finit, vu qu'elle "meurt"  
   
 Spoiler ! Non, elle meurt pas. Le mec se barre alors qu'elle est empoisonné parce que flemme de l'achever, j'ai trop d'égo on se sait. Donc, il va voir ailleurs si j'y suis, et Obsius passe par là **COMME PAR HASARD** et, vu que c'est un animal blessé, fusionne avec Némo parce que ben, aucun des deux veut mourir.   
-  
+en fusionnant, Némo devient aveugle, et perd ses souvenirs. Elle est récupéré à l'état quasi comateux/végétatif façon Shiki dans un hosto par l'Echo, Zeph(? Hibou ??? HIBOU) la soigne et elle rentre dans l'écho parce qu'elle cherche +/- ses souvenirs & parce que, bon, les clans Sanktae se sont éloignés et elle n'a réussi à en contacter aucun au courant de son "ex elle". %%  
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center> P o u v o i r s</center>   
@@ -119,15 +119,15 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 [[Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.::highlight]]   
   
 Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :  
-  - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.  
+- Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.  
 - Des griffes noires et effilées poussent à la place de ses ongles  
 - Son auréole devient noire.  
 - Son contrôle de la lumière se converti en contrôle des ombres, mais dont les capacités sont similaires à son pouvoir original. Il est juste à noter que les faiblesses sont inversé et elle sera extrêmement sensible à la lumière.   
   
 ### ◌ Inconvénients ◌  
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts.   
-- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne#Trivia-\|trivia]])*  
-  	De plus, elle a tendance à se cogner partout.  
+- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne#triviatrivia-]])*  
+	De plus, elle a tendance à se cogner partout.  
 - Son pouvoir aveugle allié et ennemi.  
 - Elle ne peut récupérer, d'aucune manière, la vue.   
 - Son auréole est permanente et l'empêche de porter de chapeau. Si elle essaie, "elle a une migraine d'enfer, un peu comme être le passager du pire conducteur de la planète, tout en ayant la pire gueule de bois de sa vie."  
