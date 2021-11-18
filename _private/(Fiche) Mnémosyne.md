@@ -27,7 +27,7 @@ FROM [[(Fiche) Mnémosyne]] or [[◈ Mnémosyne ◈]]
 **Âge :** 30 ans  
 **Taille :** 1m80  
 **Race :** Sanktae[^1] (*déchue*)  
-  **Statut :** Surveillante  
+**Statut :** Surveillante  
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 #  <center> D e s c r i p t i o n s </center>  
@@ -126,7 +126,7 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
   
 ### ◌ Inconvénients ◌  
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts.   
-- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne#Trivia\|trivia]])*  
+- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne#Trivia-\|trivia]])*  
   	De plus, elle a tendance à se cogner partout.  
 - Son pouvoir aveugle allié et ennemi.  
 - Elle ne peut récupérer, d'aucune manière, la vue.   

@@ -2,133 +2,144 @@ title: Owlly House
 name: Owlly House
 user_description: Pensées et écrits d'un petit hibou.
 tagline: Pensées et écrits d'un petit hibou.
-notes_url: "https://owlly-house.netlify.app"
+notes_url: https://owlly-house.netlify.app
 profile_pic: /assets/site/profile.gif
 favicon: /assets/site/favicons.png
 logo: /assets/site/LOGO_SEO.png
 copyright_name: MIT
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://owlly-house.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: https://owlly-house.netlify.app/
 encoding: utf-8
-
-# Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap
-  - jekyll-toc
-  - jekyll-spaceship
-
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-toc
+- jekyll-spaceship
 markdown: kramdown
-
 kramdown:
   input: GFM
   hard_wrap: false
   math_engine: null
-  smart_quotes: ["apos", "apos", "quot", "quot"]
+  smart_quotes:
+  - apos
+  - apos
+  - quot
+  - quot
   syntax_highlighter: rouge
   default_lang: markdown
-
-
 sass:
   style: compressed
-
 collections:
-    notes:
-      output: true
-      permalink: /notes/:title
-    private:
-     output: true
-     permalink: /private/:title
-    school:
-     output: true
-     permalink: /school/:title
+  notes:
+    output: true
+    permalink: /notes/:title
+  private:
+    output: true
+    permalink: /private/:title
+  school:
+    output: true
+    permalink: /school/:title
+  Roleplay:
+    output: true
+    permalink: /Roleplay/:title
 toc:
-  max_level: 3
-
+  max_level: 6
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      permalink: /posts/:title
-      content-type: post
-      image: /assets/site/LOGO_SEO.png
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: post
-      content-type: notes
-  - scope: 
-      path: ""
-      type: private
-    values: 
-     layout: post
-     content-type: notes
-  - scope:
-      path: ""
-      type: school
-    values:
-     layout: post
-     content-type: notes
-# Where things are
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: /posts/:title
+    content-type: post
+    image: /assets/site/LOGO_SEO.png
+- scope:
+    path: ''
+    type: notes
+  values:
+    layout: post
+    content-type: notes
+- scope:
+    path: ''
+    type: private
+  values:
+    layout: post
+    content-type: notes
+- scope:
+    path: ''
+    type: school
+  values:
+    layout: post
+    content-type: notes
+- scope:
+    path: ''
+    type: Roleplay
+  values:
+    layout: post
+    content-type: notes
 jekyll-spaceship:
-  # default enabled processors
   processors:
-    - table-processor
-    - mathjax-processor
-    - plantuml-processor
-    - mermaid-processor
-    - media-processor
-    - emoji-processor
-    - element-processor
+  - table-processor
+  - mathjax-processor
+  - plantuml-processor
+  - mermaid-processor
+  - media-processor
+  - emoji-processor
+  - element-processor
   mathjax-processor:
     src:
-      - https://polyfill.io/v3/polyfill.min.js?features=es6
-      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
     config:
       tex:
         inlineMath:
-          - ['$','$']
-          - ['\(','\)']
+        - - $
+          - $
+        - - \(
+          - \)
         displayMath:
-          - ['$$','$$']
-          - ['\[','\]']
+        - - $$
+          - $$
+        - - \[
+          - \]
       svg:
-        fontCache: 'global'
-    optimize: # optimization on building stage to check and add mathjax scripts
-      enabled: true # value `false` for adding to all pages
-      include: []   # include patterns for math expressions checking (regexp)
-      exclude: []   # exclude patterns for math expressions checking (regexp)
+        fontCache: global
+    optimize:
+      enabled: true
+      include: []
+      exclude: []
   plantuml-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    mode: default
     css:
       class: plantuml
     syntax:
-      code: 'plantuml!'
-      custom: ['@startuml', '@enduml']
+      code: plantuml!
+      custom:
+      - '@startuml'
+      - '@enduml'
     src: http://www.plantuml.com/plantuml/svg/
   mermaid-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    mode: default
     css:
       class: mermaid
     syntax:
-      code: 'mermaid!'
-      custom: ['@startmermaid', '@endmermaid']
+      code: mermaid!
+      custom:
+      - '@startmermaid'
+      - '@endmermaid'
     config:
       theme: default
     src: https://mermaid.ink/svg/
   media-processor:
     default:
-      id: 'media-{id}'
-      class: 'media'
-      width: '100%'
+      id: media-{id}
+      class: media
+      width: 100%
       height: 350
       frameborder: 0
       style: 'max-width: 600px; outline: none;'
-      allow: 'encrypted-media; picture-in-picture'
+      allow: encrypted-media; picture-in-picture
   emoji-processor:
     css:
       class: emoji
