@@ -5,14 +5,14 @@
   {% for post in site.posts %}
     {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
-      "url"      : "{{ post.url }}",
+      "title"    : {{ post.title | strip_html | escape }},
+      "url"      : {{ post.url }},
       "content"  : {{ post.content | strip_html | strip_newline | strip | jsonify }}
 
     },
   {% endfor %}
 
-  {% for note in site.documents %}
+  {% for note in site.notes %}
     {% if note.collection != 'private' %}
     {
 
