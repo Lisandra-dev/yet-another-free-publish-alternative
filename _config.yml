@@ -44,7 +44,7 @@ collections:
     output: true
     permalink: /Roleplay/:title
 toc:
-  max_level: 3
+  max_level: 6
 defaults:
 - scope:
     path: ''
