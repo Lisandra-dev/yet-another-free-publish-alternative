@@ -54,7 +54,7 @@ def create_page(folder):
 
     try:
         os.mkdir(basedir / f"_{folder}")
-        open('.push', 'a').close()
+        open(basedir/'.push', 'a').close()
     except FileExistsError:
         print("The folder already exists")
         pass
