@@ -5,7 +5,6 @@ description: Fiche de Mnémosyne, adaptée à Légendia
 flux: true
 folder: Roleplay
 image: Mnémosyne
-link: https://owlly-house.netlify.app/private/(Fiche)-Mnémosyne
 obsidianUIMode: source
 share: true
 title: Mnémosyne
@@ -255,7 +254,8 @@ Issue de sa fusion avec un être informe, [[20. Projet RP/23. Légendia/20. Pers
 *Bonus* : +5 au dé  
 *Cooldown* : 1x jour — Épuise Némo à la fin de sa forme  
 *Domaine* : Hua  
-*Effet* : Bonus +12 aux dés  
+*Durée* : 5 rolls   
+*Effet* : Bonus +12 aux dés (uniquement sur Némo)  
 *Description* : Némo déploie toute sa magie, renforçant l'ensemble de sa magie.  
   
 [^1]: Nom inspiré d'Arknight.
