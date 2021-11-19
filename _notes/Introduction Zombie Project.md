@@ -3,6 +3,7 @@ category: Roleplay
 date: 26-10-2021
 description: Introduction mini RP Resident Evil
 flux: false
+link: https://owlly-house.netlify.app/notes/Introduction-Zombie-Project
 obsidianUIMode: preview
 share: true
 title: Introduction Zombie Project

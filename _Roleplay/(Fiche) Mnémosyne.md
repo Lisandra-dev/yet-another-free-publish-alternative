@@ -5,7 +5,7 @@ description: Fiche de Mnémosyne, adaptée à Légendia
 flux: true
 folder: Roleplay
 image: Mnémosyne
-obsidianUIMode: source
+obsidianUIMode: preview
 share: true
 title: Mnémosyne
 type: fiche
@@ -70,7 +70,9 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.  
   
 ## <center>──────༺ Physique ༻──────</center>  
-![+side](../assets/img/Mnemosyne.png)*Taille* : 1m80  
+![+side](../assets/img/Mnemosyne.png)  
+  
+*Taille* : 1m80  
 *Poids* : 60 kg  
 *Yeux* : Translucide  
 *Cheveux* : Gris — Bleuté  
@@ -88,6 +90,7 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.   
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.   
   
+**→ *[[Illustration (Némo)\|Illustration]]***{: #left}  
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  

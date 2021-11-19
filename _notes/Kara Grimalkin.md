@@ -5,6 +5,7 @@ description: Kara Grimalkin, un jour je ferai sa fiche. Mais d'abord, je dois co
   les données sur Mhach, et j'ai la flemme.
 genre: PJ
 image: Kara
+link: https://owlly-house.netlify.app/notes/Kara-Grimalkin
 share: true
 title: Kara Grimalkin
 type: Personnage, OC

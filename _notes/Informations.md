@@ -3,6 +3,7 @@ category: Roleplay
 date: 26-10-2021
 description: Info sur le mini rp Resident Evil
 flux: true
+link: https://owlly-house.netlify.app/notes/Informations
 obsidianUIMode: preview
 share: true
 title: Informations
