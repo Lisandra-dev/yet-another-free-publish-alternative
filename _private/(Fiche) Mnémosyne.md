@@ -91,8 +91,105 @@ Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron,
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
-[truc](lol#long-header-to-link-with)  
+### ⟦ Dix ans plus tôt ⟧  
   
+*Sacrifier. Sacrifier son âme.  
+Voilà ce qu'elle avait fait.  
+  
+*Tenant fermement la lance de ██████, elle jeta un regard vers on adversaire.*  
+  
+— Je vois que tu as choisi ton camps, lança █████.   
+  
+*Elle sourit, en faisant un pas en arrière. Arracher la lance des mains d'un adversaire dont on avait dévoré le cœur était plus facile.*  
+  
+— Dois-je énumérer tes crimes ?   
+  
+*Elle n'attendit pas sa réponse, et déploya sa magie et ses ailes, brillant de mille feu. Ce n'impressionna pas vraiment son adversaire, puisqu'il fit la même chose.*  
+  
+— Tu crois que tu auras le temps de tous les faire avant de mourir ? Dit-elle, avant de s'élancer, vers lui.  
+Il la repoussa avec sa magie, sans l'écouter.  
+  
+— Tu as **dévoré le cœur de █████**, tu as choisi de t'allier avec les ██████, et tu as volé l'arme du clan ████.  
+— Oui, oui, je sais, c'est tabou, tout ça.  
+  
+*Leur magie s'affrontait à présent.*  
+  
+*Elle s'élança de nouveau sur lui. La lance fut repoussée par le bouclier de lumière, et il enfonça sa lame dans sa poitrine, enduite de poison. Tout cela ne se joua qu'en quelque seconde.*  
+*Elle recula, regardant le trou dans sa poitrine, alors que la magie remontait. Elle lâcha la lance, et tituba.  
+████ tomba à genou.  
+████ cracha du sang. Elle observa le liquide s'échapper de sa bouche, avant de s'écrouler entièrement.*  
+  
+*█████ vint se poser à ses côté.*  
+  
+— Je ne t'acheverai pas, dit-il.  
+— Tu... Devrais. Parvint-elle à articuler.  
+  
+*"C'est le seul moyen de ne pas être déchu", pensa-t-elle, alors que les meurtres, en tant de guerre, n'avait pas d'effet. Sauf quand on attaquait son propre camps.*  
+*Il lui prit la lance de ses mains.*  
+  
+— La dévoreuse n'est plus.   
+  
+*Elle avait tout trahit. Leurs croyance, leurs idéaux, leurs clans. Elle avait tué de ses mains un de ses frères, pour en dévorer le cœur. Acquérir ses connaissances et sa magie. Passer un message.*  
+*Pour mourir d'un bête poison.*  
+  
+— Au moins... *Elle ne finit pas sa phrase*  
+  
+*Elle ne le vit pas partir. Sa vue, maintenant, était éteinte. Elle ne voyait plus rien. Elle sentait juste s'échapper la vie de ses poumons, volée par un poison Sanktae.*  
+  
+##### **◇ Obsius ◇**  
+  
+L'être n'avait pas de forme réelle. Parfois, ils en adoptaient une, et la gardait. Mais Obsius n'avait jamais réussi à se décider.   
+Ils étaient des créatures qui aimaient simplement manger. Tranquillement, dans leur coin. Personne ne faisait vraiment attention à eux.   
+Ils vivaient d'ombre, de nuit.   
+Ils ne connaissaient pas les Étrangers, et ils s'en fichaient royalement.   
+  
+Il était malade. Il ne savait pas vraiment comment. Mais il était malade, et en fin de vie. Il avait suivi, peut-être par simple curiosité, l'étrange Sanktae, pendant son Voyage.  
+Il ne voulait pas la voir mourir.  
+Il ne voulait pas mourir.  
+  
+Il posa un tentacule, composé d'ombre, sur le front de l'ange, qui respirait difficilement. Évidemment, elle ne le voyait pas. Elle le sentit juste, comme une brise chaude.  
+  
+Elle accepta. Elle n'avait pas le choix.  
+  
+Ils ne devinrent qu'un.  
+  
+### ⟦ Quelque mois plus tard — Hôpital ⟧  
+  
+*Alazée était une personne curieuse par nature, et, lorsqu'elle entendit — au cours d'un voyage — parlé d'une aveugle taciturne et malade, décida de s'y rendre. Après tout, l'Écho se devait d'aider tout le monde.*  
+  
+*Salem, lui, était plus dubitatif.*  
+  
+— Tu sais que tu n'as pas le droit de fumer dans un hôpital ?   
+  
+*Il haussa les épaules et pointa l'ange comateuse*  
+  
+— Comme si ça allait la déranger. Tu peux y faire quelque chose ?   
+  
+*Alazée était une excellente magicienne, et excellait dans les sortilèges de soins. Salem la considérait comme la meilleure dans son domaine, mais... Disons que son avis n'était pas très objectif.*  
+  
+— Je vois le problème. Elle n'a juste pas envie de se réveiller.  
+  
+*L'explication était plus large que ça. La Sanktae était vivante, son cerveau était réveillée. Mais elle … Semblait refuser de "revenir" dans le monde réel. Ou était-elle bloquée ?*  
+  
+*La mage se concentra, et tendit les mains vers l'ange. La magie mit du temps à atteindre l'organisme et sa psychée.*  
+  
+*Elle ouvrit les yeux. Des yeux blancs, translucides, et les fixa.*  
+  
+— Je crois que nous avons du pain sur la planche, dit Salem, comme un constat.  
+  
+Elle savait respirer. Elle savait bouger.   
+Mais elle était aveugle.  
+Et amnésique.  
+  
+***  
+  
+Elle prit pour nom "Mnémosyne", suggérée par Alazée. Un jeu de mot avec mémoire, lui avait-elle dit. Et puis, c'était plus facile à porter que "Psychée", proposée par Salem sans vraiment d'explication.  
+  
+Le couple de mage faisait parti de l'Écho, une organisation secrète dont le but était de protéger l'Hua, d'éviter des nouvelles catastrophes, d'étudier le monde et son équilibre.   
+  
+Némo, sans aucun but, mais curieuse, choisit de les rejoindre. Elle voulait retrouver ses souvenirs, comprendre les Sanktae, et ce qui se cachait dans sa conscience.  
+  
+Ils lui proposèrent, bien plus tard, de garder un œil (encore une blague de Salem) sur les étudiants de l'Académie, et elle accepta. Elle n'avait pas vraiment grand chose à faire.  
   
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center> P o u v o i r s</center>   
@@ -105,7 +202,11 @@ Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la
   
 Ils sont aussi capable de faire apparaître à volonté des ailes translucides, mais il leur est impossible de voler avec. Aujourd'hui encore, il est difficile de savoir à quoi sert (ou servait) ses ailes.  
   
-Les Sanktae se mélangent naturellement à la population, et n'ont rien de particulier vis à vis des autres de race. Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race. *Cependant, il faut quand même que le meurtre se sache*.  
+Les Sanktae se mélangent naturellement à la population, et n'ont rien de particulier vis à vis des autres de race. Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race.   
+  
+Au cours d'un meurtre, chez les Sanktae, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller.   
+  
+Les Sanktae sont décomposés en clan, et n'aiment pas vraiment se mélanger avec les autres races.   
   
 ### ◌ Pouvoirs Sanktae ◌  
 Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et elle peut être capable de condenser la lumière en rayon et laser, se déplacer d'un point à un autre, ou encore créer un double de lumière.  
@@ -134,26 +235,26 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
   
 ## <center>──────༺ Capacités ༻──────</center>  
   
-❖ — **Nom** _(Passif)_ — ❖  
-*Description*  
+❖ — **Écho astral** _(Passif)_ — ❖  
+*En envoyant de la lumière sur les surfaces, Némo est capable de les distinguer. Elle le fait naturellement pour les êtres vivants, qu'elle voit sous forme de tâche colorée.*  
   
-❖ — **Nom** *(Actif)* — ❖  
-*Bonus* :   
-*Cooldown* :   
-*Domaine* :   
-*Description* :   
+❖ — **Lance de lumière** *(Actif)* — ❖  
+*Bonus* : +10 au dé  
+*Cooldown* : 2x par jour  
+*Domaine* : Lumière ; Hua  
+*Description* : Cinq lances de lumières apparaissent autour de Némo pour se planter dans son adversaire.   
   
-❖ — **Nom** *(Actif)* — ❖  
-*Bonus* :   
-*Cooldown* :   
-*Domaine* :   
-*Description* :   
+❖ — **Téléportation** *(Actif)* — ❖  
+*Bonus* : +5 au dé  
+*Cooldown* : 5x par jour — Ne peut pas traverser les murs ; Impossible sans lumière  
+*Domaine* : Lumière ; Hua  
+*Description* : Némo se déplace instantanément d'un point à un autre sur une courte distance.   
   
-❖ — **Nom** *(Heal/Buff/Débuff/Hors Combat, etc)* — ❖  
-*Bonus* :   
-*Cooldown* :   
-*Domaine* :   
-*Effet* :   
-*Description* :  
+❖ — **Forme Sanktae** *(Buff)* — ❖  
+*Bonus* : +5 au dé  
+*Cooldown* : 1x jour — Épuise Némo à la fin de sa forme  
+*Domaine* : Hua  
+*Effet* : Bonus +12 aux dés  
+*Description* : Némo déploie toute sa magie, renforçant l'ensemble de sa magie.  
   
 [^1]: Nom inspiré d'Arknight.
