@@ -16,7 +16,7 @@ update: false
 ```dataview  
 table univers as RP, state  
 FROM [[Azraël Blakes]]  
-   ```  
+ ```  
 ---  
   
 **Nom** : Blakes  

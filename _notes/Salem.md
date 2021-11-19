@@ -14,7 +14,6 @@ univers: ❌
 **Âge** : ~1500 ans  
 **Genre** : M  
 **Orientation** : Hétéro (oui)  
-**Race** : Démon   
 **Pouvoirs** :   
 1. **Nécromancie** : Salem est capable de ramener les morts à la vie en enchainant leurs âmes à leur cadavre. Il peut aussi enchainer une âme sans lien avec le cadavre, et donc ramener des personnes dans des corps différents à l'origine. Les zombies ramenés sentent la douleur et la plupart sont à moitié fou.   
 2. **Marionnette** : Il est capable de créer des "faux" zombies à l'aide de sa magie. Il utilise cette technique principalement, et dans ce cas, il est obligé de les contrôler à l'aide de "chaines".  

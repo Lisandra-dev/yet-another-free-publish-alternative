@@ -20,9 +20,9 @@ update: false
 ```dataview  
 Table RP, State  
 FROM [[Quinn Jazee]]  
-   ```  
+ ```  
 ---  
-![+pinsc4630a55340574be274a8906564d0796](../assets/img/c4630a55340574be274a8906564d0796.png)  
+![+pins\c4630a55340574be274a8906564d0796](../assets/img/c4630a55340574be274a8906564d0796.png)  
   
 $~$  
 **Nom** :  Jazee  

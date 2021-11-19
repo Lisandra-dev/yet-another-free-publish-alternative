@@ -1,6 +1,6 @@
 ---
 category: Fiche RP
-date: 15-11-2021
+date: 19-11-2021
 description: (Blackwell Castle) Fiche de Andrea
 obsidianUIMode: source
 share: true

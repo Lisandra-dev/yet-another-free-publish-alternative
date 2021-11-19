@@ -12,7 +12,7 @@ update: false
 ---
 
 → [[RP —  Guide création de personnage]]   
-    
+  
 # Description mentale  
 ## Généralité  
 - Sociabilité  

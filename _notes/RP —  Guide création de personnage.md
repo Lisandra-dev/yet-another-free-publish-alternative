@@ -12,7 +12,7 @@ update: false
 ---
 
 → [[RP —  Guide Fiche\|Guide rapide pour écrire une fiche]]  
-    
+  
 # Caractéristiques physiques  
 - Taille  
 - Corpulence   
