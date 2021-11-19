@@ -1562,3 +1562,16 @@ p.admo-note>.title {
     font-size: 24px;
     vertical-align: -1%;
 }
+
+.link_error > a,
+a.link_error {
+    background-color: #f2f2f2;
+    color: #acacac !important;
+    border-radius: 5px;
+    font-weight: normal;
+}
+
+a.link_error:hover,
+.link_error > a:hover{
+    text-decoration: none !important
+}

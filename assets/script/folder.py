@@ -54,8 +54,7 @@ def create_page(folder):
 
     try:
         os.mkdir(basedir / f"_{folder}")
-        with open(basedir/'404.md', 'w') as page:
-            page.write('---\nlayout: post\npermalink: /404.html\ncategory: false\nflux: false\n---\n**Page not found :(**\n')
+        open(basedir/'.git', 'a').close()
     except FileExistsError:
         print("The folder already exists")
         pass
