@@ -91,7 +91,6 @@ h6 {
     color: #555555;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
-    clear: both;
 }
 
 .footnotes {
@@ -133,7 +132,6 @@ blockquote {
     font-size: 18px;
     /* Let's set the font-size to something old-man friendly */
     line-height: 210%;
-    clear: both;
 }
 
 p a,
