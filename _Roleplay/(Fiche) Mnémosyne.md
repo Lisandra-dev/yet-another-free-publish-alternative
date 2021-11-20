@@ -71,7 +71,7 @@ Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors d
   
 ## <center>──────༺ Physique ༻──────</center>  
 ![+side](../assets/img/Mnemosyne.png)  
-  
+    
 *Taille* : 1m80  
 *Poids* : 60 kg  
 *Yeux* : Translucide  
@@ -89,11 +89,13 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
   
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.   
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.   
+  **→ *[[Illustration (Némo)\|Illustration]]***{: #left}  
+
   
-**→ [[Illustration (Némo)\|Illustration]]**{: #left}  
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
+
 ### ⟦ Dix ans plus tôt ⟧  
   
 *Sacrifier. Sacrifier son âme.*  
