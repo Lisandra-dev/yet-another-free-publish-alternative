@@ -46,21 +46,15 @@
 
                 {%- if internal_link -%}
 
-                {%- assign result_notes = site.notes | where: 'title',internal_link -%}
+                {%- assign result_notes = site.documents | where:
+    'title',internal_link -%}
                 {%- assign result_posts = site.posts | where: 'title',internal_link -%}
                 {%- assign result_pages = site.pages | where: 'title',internal_link -%}
-                {%- assign result_roleplay = site.Roleplay | where: 'title',internal_link  -%}
-                {%- assign result_private = site.private | where:
-    'title',internal_link  -%}
-                {%- assign result_school = site.school | where:
-    'title',internal_link  -%}
 
                 {%- assign internal_links = internal_links | append: link_joiner_delimiter | append: internal_link -%}
                 {%- assign internal_urls = internal_urls | append:
     link_joiner_delimiter | append: result_notes[0].url | append:
-    result_posts[0].url | append: result_pages[0].url | append:
-    result_roleplay[0].url | append: result_school[0].url | append:
-    result_private[0].url
+    result_posts[0].url | append: result_pages[0].url
     -%}
 
                 {%- endif -%}
@@ -69,9 +63,7 @@
                     {%- assign internal_links_alt = internal_links_alt | append: link_joiner_delimiter | append: internal_link -%}
                     {%- assign internal_urls_alt = internal_urls_alt |
     append: link_joiner_delimiter | append: result_notes[0].url | append:
-    result_posts[0].url | append: result_pages[0].url | append:
-    result_roleplay[0].url | append: result_private[0].url | append:
-    result_school[0].url
+    result_posts[0].url | append: result_pages[0].url
     -%}
                     {%- assign internal_titles_alt = internal_titles_alt | append: link_joiner_delimiter | append: alt_link -%}
 

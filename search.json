@@ -12,26 +12,7 @@
     },
   {% endfor %}
 
-  {% for note in site.notes %}
-    {
-
-      "title"    : "{{ note.title | strip_html | escape }}",
-      "url"      : "{{ note.url }}",
-      "content"  : {{ note.content | newline_to_br | strip_newlines | replace: '<br/>', '' | strip | strip_html | strip | jsonify }}
-
-    },
-  {% endfor %}
-  
-  {% for note in site.Roleplay %}
-    {
-
-      "title"    : "{{ note.title | strip_html | escape }}",
-      "url"      : "{{ note.url }}",
-      "content"  : {{ note.content | newline_to_br | strip_newlines | replace: '<br/>', '' | strip | strip_html | strip | jsonify }}
-
-    },
-  {% endfor %}
-  {% for note in site.school %}
+  {% for note in site.documents %}
     {
 
       "title"    : "{{ note.title | strip_html | escape }}",
