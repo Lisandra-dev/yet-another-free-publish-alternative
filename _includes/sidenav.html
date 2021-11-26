@@ -1,0 +1,26 @@
+{% for collection in site.collections %}
+    {%- if collection.label != "private" and collection.label != "posts" -%}
+        {%- assign docs = "/" | append: collection.label -%}
+        <details>
+            <summary><a href="{{ docs }}">{{ collection.label | capitalize}}</a></summary>
+                <ul>
+                    {%- assign documents = site[collection.label] | group_by_exp: 'item', "item.category | downcase" -%}
+                    {% for cat in documents %}
+                        {%- if cat.name != 'false' -%}
+                            <details>
+                                <summary class="cat">{{ cat.name | upcase }}</summary>
+                                <ul>
+                                {% assign items = cat.items | sort: 'date' | reverse %}
+                                {% for item in items %}
+                                    <a href="{{ item.url }}" style="text-decoration: none; color: #555555;">
+                                        <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                                    </a>
+                            {% endfor %}
+                            </ul>
+                             </details>
+                        {% endif %}
+                    {%- endfor -%}
+                </ul>
+            </details>
+    {%- endif -%}
+  {% endfor %}

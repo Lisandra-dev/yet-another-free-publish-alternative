@@ -30,8 +30,8 @@ body {
     bottom: 0px;
     align-items: center;
     max-width: 1100px;
-    margin-right: auto;
     margin-left: auto;
+    margin-right:auto;
 }
 
 .box {
@@ -1574,4 +1574,33 @@ a.link_error {
 a.link_error:hover,
 .link_error > a:hover{
     text-decoration: none !important
+}
+
+/* ---- Side nave ---- */
+.sidenav  {
+ height: 100%; /* 100% Full-height */
+  width: 50%; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 25%; /* Stay at the top */
+  left: 0;
+}
+.sidenav .cat,
+.sidenav summary{
+    position: revert !important;
+        width: max-content;
+
+}
+.sidenav details {
+    padding: 0;
+    font-size:18px;
+}
+
+.sidenav details > ul {
+    margin: -10px !important;
+}
+
+.sidenav .feed-title {
+    width: max-content;
+    margin-bottom: 0;
 }
