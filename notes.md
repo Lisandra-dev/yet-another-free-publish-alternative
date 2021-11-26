@@ -19,7 +19,6 @@ details {
 	padding-left: 30px;
 	padding-bottom: 12px;
 	padding-top: 12px;
-	border-bottom: 2px dashed #b6c5d5;
 
 }
 

@@ -9,4 +9,4 @@ share: true
 title: Obsius
 ---
 
--> [[(Fiche) Mnémosyne]]
+-> [[(Légendia) Mnémosyne]]

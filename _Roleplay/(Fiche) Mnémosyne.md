@@ -7,7 +7,7 @@ folder: Roleplay
 image: Mnémosyne
 obsidianUIMode: preview
 share: true
-title: Mnémosyne
+title: (Légendia) Mnémosyne
 type: fiche
 ---
 
@@ -219,7 +219,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 ### ◌ Pouvoirs Obsius ◌  
 [[Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.::highlight]]   
   
-Issue de sa fusion avec un être informe, [[20. Projet RP/23. Légendia/20. Personnages/◈ Mnémosyne ◈/Obsius\|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :  
+Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :  
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.  
 - Des griffes noires et effilées poussent à la place de ses ongles  
 - Son auréole devient noire.  
