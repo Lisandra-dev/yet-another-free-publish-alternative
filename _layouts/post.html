@@ -62,14 +62,39 @@
 
 <body>
 
-
-
-    <div class="container">
-        <div class="sidenav">
-                {%- include sidenav.html -%}
+    <div class="banner">
+    <div class="dashboard disable-select">
+        <div class="site-heading profile-board-col">
+           <h4 class="medium"><a href="/">{{site.title}}</a></h4>
         </div>
+        <div class="userboard profile-board-col">
+            <div class="username">
+                <p class="title-sans"><a href="/" style="text-decoration: none;">{{site.name}}</a></p>
+            </div>
+            <div class="userdesc">
+                <p class="title-sans">{{site.user_description}}</p>
+            </div>
+
+        </div>
+                    {%- include header.html -%}
+
+    </div>
+        <div class="avatar disable-select" title="POUIC !">
+        <a class="avatar-link" href="/">
+            <img src="/assets/site/profile.png" class="avatar-img" alt="avatar"/>
+        </a>
+    </div>
+                <div class="sidenav">
+            {%- include sidenav.html -%}
+        </div>
+        <a href="#" id="btn"><i class="fas fa-bars"></i></a>
+        <div class="layout_mobile">
+            {%- include sidenav.html -%}
+        </div>
+    </div>
+    <div class="container">
+
         <div class = "box">
-            {%- include header.html -%}
             {%- include feed.html -%}
 
             {%- if page.content-type == "notes" 
@@ -80,12 +105,13 @@
                 {%- include content.html -%}
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
+                <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
+
             </main>
             {%- endif -%}
             {%- include comments.html -%}
             {%- include footer.html -%}
         </div>
-        <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
     </div>
 
     <script>

@@ -16,12 +16,13 @@ html {
 
 body {
     counter-reset: sidenote-counter;
+    margin: 0;
 }
 
 .container {
     display: flex;
     position: relative;
-    top: 0px;
+    top: -10px;
     left: 0px;
     right: 0px;
     bottom: 0px;
@@ -29,19 +30,26 @@ body {
     margin-right:auto;
     flex-wrap: nowrap;
     align-items: first baseline;
+    background-color: #f7f7f7;
 }
 
 .box {
     border-left: 1px solid #f7f7f7;
     border-right: 1px solid #f7f7f7;
     border-bottom: 1px solid #f7f7f7;
-    width: 100%;
+    width: 1200px;
     top: 0px;
+    flex-shrink: 0;
+    background-color: white;
+    margin: auto;
+    margin-top: 19em;
 }
 
 header {
-    display: flex;
-    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    width:100%;
+    left: 18%;
 }
 
 main {
@@ -406,6 +414,7 @@ hr {
 .main-site-subheader {
     border-bottom: 1px solid #f7f7f7;
     padding-left: 15px;
+    background-color:  #f7f7f7;
 }
 
 .home,
@@ -749,7 +758,6 @@ a {
 }
 
 .back-icon {
-    background-color: white;
     fill: currentColor;
     color: #555555;
     margin-top: 5px;
@@ -1129,7 +1137,6 @@ img[src*='#center'] {
 
 .scroll-to-top {
     position: fixed;
-    bottom: 20px;
     right: 20px;
     border-radius: 30px;
     background-color: transparent;
@@ -1413,8 +1420,6 @@ img[src*='#center'] {
 }
 
 @media screen and (max-width: 800px) {
-    .box {
-        width: 80%;
     }
     label {
         cursor: pointer;
@@ -1572,14 +1577,46 @@ a.link_error:hover,
 }
 
 /* ---- Side nave ---- */
+
+#btn,
+.layout_mobile{
+    display:none;
+}
+
+@media (max-width: 1000px) {
+    .sidenav {
+        display: none;
+    }
+    #btn {
+        display: block !important;
+    }
+    .fas.fa-bars {
+        font-size: 50px;
+        position: absolute !important;
+        top: -180px;
+        left: 10px;
+    }
+    .avatar {
+        left:50px;
+    }
+    .layout_mobile {
+        display: none;
+    }
+
+}
+
+
 .sidenav  {
-width:25%;
+    width:15%;
     flex-shrink: 0;
+    padding-left: 10px;
+    position: fixed;
 }
 .sidenav .cat,
 .sidenav summary{
     position: revert !important;
-        width: max-content;
+    width: max-content;
+    background-color: inherit;
 
 }
 .sidenav details {
@@ -1592,6 +1629,13 @@ width:25%;
 }
 
 .sidenav .feed-title {
-    width: max-content;
+    width: 15ch;
+    margin-left: -5px;
     margin-bottom: 0;
+}
+
+.banner {
+    position: fixed;
+    z-index: 1;
+    width:100%;
 }
