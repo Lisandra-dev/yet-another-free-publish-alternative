@@ -1,4 +1,13 @@
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
+<style>
+    .container {
+    padding-bottom: 0;
+}
+    .scroll-to-top {
+    display: inline;
+}
+</style>
+
 {%- if page.content-type == "notes" -%}
 <ul class="tags">
     {%- if page.etat != nil and page.etat != empty -%}

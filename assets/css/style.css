@@ -1137,7 +1137,8 @@ img[src*='#center'] {
 
 .scroll-to-top {
     position: fixed;
-    right: 20px;
+    top:95%;
+    left: 80%;
     border-radius: 30px;
     background-color: transparent;
     background-repeat: no-repeat;

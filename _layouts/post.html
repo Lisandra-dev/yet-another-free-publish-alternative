@@ -106,6 +106,8 @@
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
                 <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
+                <button class="scroll-to-bot" id="scroll-to-bot"><i
+                        class="fa fa-chevron-down"></i></button>
 
             </main>
             {%- endif -%}
@@ -115,8 +117,9 @@
     </div>
 
     <script>
-        document.getElementById("scroll-to-top").addEventListener("click", function() {
-            window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
+        document.getElementById("scroll-to-top")
+            .addEventListener("click", function() {
+                window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
         });
     </script>
     {%- if page.title != "Collections" -%}
