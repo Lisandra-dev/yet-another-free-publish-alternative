@@ -49,7 +49,7 @@ summary {
 	background-color: white;
 }
 .container {
-    padding-bottom: 20%;
+    padding-bottom: 190px;
 }
 .scroll-to-top {
     display: none

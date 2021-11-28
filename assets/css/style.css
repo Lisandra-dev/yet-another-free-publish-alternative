@@ -39,7 +39,6 @@ body {
     border-bottom: 1px solid #f7f7f7;
     width: 1200px;
     top: 0px;
-    flex-shrink: 0;
     background-color: white;
     margin: auto;
     margin-top: 19em;
@@ -47,11 +46,17 @@ body {
 
 header {
     position: absolute;
-    top: 50%;
+    top: 90px;
     width:100%;
-    left: 18%;
+    left: 300px;
 }
 
+@media (min-width: 1300px) {
+    header {
+
+        left: 300px;
+    }
+}
 main {
     min-height: 300px;
     margin-left: 20px;
@@ -360,6 +365,7 @@ hr {
 .userboard {
     background-color: #f7f7f7;
     width: 100%;
+    padding-bottom: 100px;
 }
 
 .username {
@@ -503,7 +509,6 @@ hr {
 a {
     color: #4183c4;
     text-decoration: none;
-    line-height: 1.5;
 }
 
 
@@ -1150,6 +1155,21 @@ img[src*='#center'] {
     font-size: 18px;
 }
 
+.scroll-to-bot {
+    position: fixed;
+    top:35%;
+    left: 80%;
+    border-radius: 30px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    color: #555;
+    outline: none;
+    border: none;
+    overflow: hidden;
+    font-size: 18px;
+}
+
 .context-menu-res {
     display: none;
     position: absolute;
@@ -1572,6 +1592,11 @@ a.link_error {
     font-weight: normal;
 }
 
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+
 a.link_error:hover,
 .link_error > a:hover{
     text-decoration: none !important
@@ -1584,24 +1609,48 @@ a.link_error:hover,
     display:none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1300px) {
+    .container {
+        padding-bottom: 0 !important;
+    }
+    header {
+        left: 0;
+    }
+
     .sidenav {
         display: none;
     }
     #btn {
         display: block !important;
+        position: absolute;
+        top: 225px;
+        z-index: 500;
     }
-    .fas.fa-bars {
+    .fas.fa-bars,
+    .far.fa-window-close{
         font-size: 50px;
         position: absolute !important;
         top: -180px;
-        left: 10px;
+        left: 5px;
     }
     .avatar {
         left:50px;
     }
     .layout_mobile {
         display: none;
+        background-color: #f2f2f2;
+        z-index:100;
+        position: absolute;
+        width:100%;
+        height: 50em;
+        top: 500px;
+        bottom: 500px;
+        margin: auto;
+        padding:10%;
+        overflow: scroll;
+    }
+    .layout_mobile summary {
+        background-color: transparent !important;
     }
 
 }
@@ -1611,7 +1660,13 @@ a.link_error:hover,
     width:15%;
     flex-shrink: 0;
     padding-left: 10px;
-    position: fixed;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 220px;
+    height:100%;
+    z-index: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 .sidenav .cat,
 .sidenav summary{

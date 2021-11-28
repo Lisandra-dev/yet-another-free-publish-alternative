@@ -11,7 +11,7 @@ summary.cat {
 	background-color: white;
 }
 .container {
-    padding-bottom: 20%;
+    padding-bottom: 190px;
 }
 
 </style>

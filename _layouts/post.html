@@ -84,16 +84,17 @@
             <img src="/assets/site/profile.png" class="avatar-img" alt="avatar"/>
         </a>
     </div>
-                <div class="sidenav">
-            {%- include sidenav.html -%}
-        </div>
-        <a href="#" id="btn"><i class="fas fa-bars"></i></a>
+
+        <a id="btn"
+           onclick="menu_mobile(this)"><i class="fas fa-bars"></i></a>
         <div class="layout_mobile">
             {%- include sidenav.html -%}
         </div>
     </div>
     <div class="container">
-
+         <div class="sidenav">
+            {%- include sidenav.html -%}
+        </div>
         <div class = "box">
             {%- include feed.html -%}
 
@@ -105,10 +106,8 @@
                 {%- include content.html -%}
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
-                <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
-                <button class="scroll-to-bot" id="scroll-to-bot"><i
-                        class="fa fa-chevron-down"></i></button>
-
+                <button class="scroll-to-top" onclick="moveLine(this)"><i
+                        class="fa fa-chevron-up"></i></button>
             </main>
             {%- endif -%}
             {%- include comments.html -%}
@@ -117,10 +116,39 @@
     </div>
 
     <script>
-        document.getElementById("scroll-to-top")
-            .addEventListener("click", function() {
+        function moveLine(button) {
+            if (button.className === "scroll-to-top") {
+                button.className = "scroll-to-bot";
                 window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
-        });
+                button.style.transform="rotate(0.5turn)";
+            }
+            else {
+                button.className = "scroll-to-top";
+                window.scrollTo({top: document.body.scrollHeight, left: 0, behavior: 'smooth'});
+                 button.style.transform="rotate(0)";
+            }
+        }
+        function menu_mobile(button) {
+          const menu = document.querySelector('.layout_mobile');
+          const contains = document.querySelector('main')
+            if (menu.style.display === "block") {
+                menu.style.display = 'none';
+                button.style.left = '0'
+                button.innerHTML = '<i class="fas fa-bars"></i>'
+                contains.style.overflow = 'revert';
+                contains.style.height="revert"
+
+            } else {
+                menu.style.display = 'block';
+                button.innerHTML = '<i class="far fa-window-close"></i>';
+                contains.style.position='absolute';
+                contains.style.overflow='hidden';
+                contains.addEventListener('scroll', e => e.preventDefault())
+                
+            }
+
+
+        }
     </script>
     {%- if page.title != "Collections" -%}
 	    <script type="text/javascript" src="../assets/js/summary.js"></script>
