@@ -1,5 +1,5 @@
 ---
-category: Légendia
+category: LégendiaLégendiaLégendiaLégendiaLégendiaLégendia
 date: 15-11-2021
 description: Fiche de Mnémosyne, adaptée à Légendia
 flux: true

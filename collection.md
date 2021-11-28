@@ -10,6 +10,10 @@ summary.cat {
 	top: 0;
 	background-color: white;
 }
+.container {
+    padding-bottom: 190px;
+}
+
 </style>
 
 {%- if page.permalink == "/collection/"-%}

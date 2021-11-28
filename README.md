@@ -69,6 +69,12 @@ Things to modify to make it yours:
    ```
 On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
 
+## Sidenav
+You can style the sidenav for your need. 
+- Folder name had `.folder_name` class
+- Category name had `.category_name` class.
+You can use `::marker` to style the marker before each summary.
+
 # Python script
 
 Having files written in Markdown on Obsidian, I created a python script in order to semi-automatically share selected file, not all file, in my blog. 

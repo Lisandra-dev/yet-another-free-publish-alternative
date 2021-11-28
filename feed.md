@@ -4,6 +4,16 @@ title: Notes
 permalink: /feed/
 content-type: eg
 ---
+<style>
+.container {
+    padding-bottom: 0;
+}
+.scroll-to-top {
+    display: none
+}
+
+</style>
+
 {%- for item in site.documents reversed -%}
     {%- if item.flux != false-%}
         <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
