@@ -1,14 +1,18 @@
 {% for collection in site.collections %}
     {%- if collection.label != "private" and collection.label != "posts" -%}
         {%- assign docs = "/" | append: collection.label -%}
-        <details>
-            <summary><a href="{{ docs }}">{{ collection.label | capitalize}}</a></summary>
+        <details class="{{collection.label}}">
+            <summary class="{{collection.label}}"><a href="{{ docs }}">{{
+                collection.label |
+                capitalize}}</a></summary>
                 <ul>
                     {%- assign documents = site[collection.label] | group_by_exp: 'item', "item.category | downcase" -%}
                     {% for cat in documents %}
                         {%- if cat.name != 'false' -%}
-                            <details>
-                                <summary class="cat">{{ cat.name | upcase }}</summary>
+                            <details >
+                                <summary class="{{ cat.name }}">{{ cat.name |
+                                    upcase
+                                    }}</summary>
                                 <ul>
                                 {% assign items = cat.items | sort: 'date' | reverse %}
                                 {% for item in items %}

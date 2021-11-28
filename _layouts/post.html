@@ -61,7 +61,14 @@
 </head>
 
 <body>
+    <div class=".sidenav_mobile">
+        <a id="btn"
+               onclick="menu_mobile(this)"><i class="fas fa-bars"></i></a>
+            <div class="layout_mobile">
+                {%- include sidenav.html -%}
+            </div>
 
+    </div>
     <div class="banner">
     <div class="dashboard disable-select">
         <div class="site-heading profile-board-col">
@@ -83,13 +90,10 @@
         <a class="avatar-link" href="/">
             <img src="/assets/site/profile.png" class="avatar-img" alt="avatar"/>
         </a>
+
     </div>
 
-        <a id="btn"
-           onclick="menu_mobile(this)"><i class="fas fa-bars"></i></a>
-        <div class="layout_mobile">
-            {%- include sidenav.html -%}
-        </div>
+
     </div>
     <div class="container">
          <div class="sidenav">
@@ -130,21 +134,22 @@
         }
         function menu_mobile(button) {
           const menu = document.querySelector('.layout_mobile');
-          const contains = document.querySelector('main')
-            if (menu.style.display === "block") {
+          const contains = document.querySelector('.container')
+            if (menu.style.display === "inline-table") {
                 menu.style.display = 'none';
                 button.style.left = '0'
                 button.innerHTML = '<i class="fas fa-bars"></i>'
                 contains.style.overflow = 'revert';
-                contains.style.height="revert"
+                contains.style.height="revert";
+                contains.style.position="revert";
 
             } else {
-                menu.style.display = 'block';
+                menu.style.display = 'inline-table';
                 button.innerHTML = '<i class="far fa-window-close"></i>';
                 contains.style.position='absolute';
                 contains.style.overflow='hidden';
-                contains.addEventListener('scroll', e => e.preventDefault())
-                
+
+
             }
 
 
