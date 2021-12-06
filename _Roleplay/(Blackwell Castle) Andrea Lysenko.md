@@ -1,6 +1,6 @@
 ---
 category: Fiche RP
-date: 19-11-2021
+date: 06-12-2021
 description: (Blackwell Castle) Fiche de Andrea
 folder: Roleplay
 link: https://owlly-house.netlify.app/notes/(Blackwell-Castle)-Andrea-Lysenko
