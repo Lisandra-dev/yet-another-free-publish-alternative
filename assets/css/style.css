@@ -1678,6 +1678,7 @@ a.link_error:hover,
     z-index: 1;
     text-overflow: ellipsis;
     overflow: hidden;
+	left: 15px;
 }
 .sidenav .cat,
 .sidenav summary{
@@ -1697,7 +1698,7 @@ a.link_error:hover,
 }
 
 .sidenav .feed-title {
-    width: 15ch;
+    width: 25ch;
     margin-left: -5px;
     margin-bottom: 0;
 }
