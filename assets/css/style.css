@@ -1536,9 +1536,6 @@ img[src*='#center'] {
     margin-right: 10px;
 }
 
-[id]>a {
-    display: none;
-}
 
 [id]:hover>a {
     display: inline;
