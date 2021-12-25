@@ -137,8 +137,8 @@ D'après les informations données par Salem, elle serait en danger, ce qui expl
   
 ## Relations  
 - [[Salem]] : Tuteur légal ; Elle le considère comme son oncle.  
-## Trivia  
   
+## Trivia  
 **Passion | Hobbies** :  
 - Musique : [[Joue du violoncelle::highlight]]   
 - La lecture  
