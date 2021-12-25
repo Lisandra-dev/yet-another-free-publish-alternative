@@ -98,6 +98,8 @@
     <div class="container">
          <div class="sidenav">
             {%- include sidenav.html -%}
+             <button class="scroll-to-bot" onclick="moveLine(this)"><i
+                class="fa fa-chevron-up"></i></button>
         </div>
         <div class = "box">
             {%- include feed.html -%}
@@ -110,8 +112,7 @@
                 {%- include content.html -%}
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
-                <button class="scroll-to-top" onclick="moveLine(this)"><i
-                        class="fa fa-chevron-up"></i></button>
+
             </main>
             {%- endif -%}
             {%- include comments.html -%}
@@ -129,7 +130,7 @@
             else {
                 button.className = "scroll-to-top";
                 window.scrollTo({top: document.body.scrollHeight, left: 0, behavior: 'smooth'});
-                 button.style.transform="rotate(0)";
+                button.style.transform="rotate(0)";
             }
         }
         function menu_mobile(button) {

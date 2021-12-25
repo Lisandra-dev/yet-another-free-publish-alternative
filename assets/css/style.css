@@ -1160,6 +1160,7 @@ img[src*='#center'] {
     overflow: hidden;
     font-size: 18px;
     z-index: 100;
+    transform: rotate(0);
 }
 
 .scroll-to-bot {
@@ -1176,6 +1177,7 @@ img[src*='#center'] {
     overflow: hidden;
     font-size: 18px;
     z-index:100;
+    transform: rotate(0.5turn)
 }
 
 .context-menu-res {
@@ -1529,17 +1531,6 @@ img[src*='#center'] {
 }
 
 
-/* DISQUS THREAD MARGIN OVERRIDE FOR LEGIBILITY, DO NOT TOUCH */
-
-#disqus_thread {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-
-[id]:hover>a {
-    display: inline;
-}
 
 
 /* Dataview */
@@ -1675,7 +1666,6 @@ a.link_error:hover,
     z-index: 1;
     text-overflow: ellipsis;
     overflow: hidden;
-	left: 15px;
 }
 .sidenav .cat,
 .sidenav summary{
@@ -1695,7 +1685,7 @@ a.link_error:hover,
 }
 
 .sidenav .feed-title {
-    width: 25ch;
+    width: 15ch;
     margin-left: -5px;
     margin-bottom: 0;
 }
