@@ -110,6 +110,7 @@ N'ayant pas de souvenir avant ses cinq ans, elle est élevée par [[Salem]], un 
 | Entêtée    | Loyale       |  
 | Brute      | Intelligente |  
   
+  
 | Aime                             | Déteste                                           |  
 | -------------------------------- | ------------------------------------------------- |  
 | La magie et les armes enchantées | Le silence                                        |  
