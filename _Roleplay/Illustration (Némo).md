@@ -12,8 +12,7 @@ title: Illustration (Némo)
 type: Illustration
 ---
 
-→ [[Mnémosyne]]  
-  
+→ [[(Fiche) Mnémosyne]]  
 ![Medhas-sm](../assets/img/Némo & Grimmerald.png)![Dolce-sm](../assets/img/Némo — Dolce 1.png)  
   
 ![Dolce-sm](../assets/img/Némo guirlande Dolce.png)![Dolce-med](../assets/img/Némo portrait Dolce.png)![Dolce-med](../assets/img/Némo half dolce.png)  

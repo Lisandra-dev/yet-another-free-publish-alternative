@@ -1,16 +1,16 @@
 ---
 category: Fiche RP
 date: 15-11-2021
-description: Fiche de Mnémosyne, adaptée à Légendia
+description: Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante.
 flux: true
 folder: Roleplay
 image: Mnémosyne
-link: https://owlly-house.netlify.app/Roleplay/Fiche
+link: https://owlly-house.netlify.app/Roleplay/(Lagendia)-Mnémosyne
 obsidianUIMode: preview
 publish: true
 share: true
 state: "\U0001F7E2"
-title: Fiche
+title: (Lagendia) Mnémosyne
 type: Fiche
 univers: Lagendia
 ---
