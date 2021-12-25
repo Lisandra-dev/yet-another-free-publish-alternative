@@ -12,7 +12,8 @@ type: Fiche
 univers: Blackwell Castle
 ---
 
-**[[Hayleen May]]**{: #left}# ─────༺ Présentation ༻─────  
+**[[Hayleen May]]**{: #left}  
+#  ─────༺ Présentation ༻─────  
 ![+side](../assets/img/Hayleen_portrait.png)  
 **Nom** : May  
 **Prénom** : Hayleen  
@@ -137,6 +138,7 @@ D'après les informations données par Salem, elle serait en danger, ce qui expl
 ## Relations  
 - [[Salem]] : Tuteur légal ; Elle le considère comme son oncle.  
 ## Trivia  
+  
 **Passion | Hobbies** :  
 - Musique : [[Joue du violoncelle::highlight]]   
 - La lecture  
