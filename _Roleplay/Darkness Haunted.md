@@ -1,7 +1,6 @@
 ---
 category: Fiche RP
 date: 21-12-2021
-folder: Roleplay
 obsidianUIMode: source
 publish: true
 share: true
@@ -12,7 +11,9 @@ type: Fiche
 univers: Darkness Haunted
 ---
 
-**« I was born from Chaos ; I will die by Chaos »**{: #left}**# ─────༺ Présentation ༻─────**{: #u}![-A655-477E-B0ED-C528A548BDAC.png\+side-bradius1-border1](../assets/img/5E2D1838-A655-477E-B0ED-C528A548BDAC.png)  
+**« I was born from Chaos ; I will die by Chaos »**{: #left}  
+# **─────༺ Présentation ༻─────**{: #u}  
+![-A655-477E-B0ED-C528A548BDAC.png\+side-bradius1-border1](../assets/img/5E2D1838-A655-477E-B0ED-C528A548BDAC.png)  
 **Nom** : Kallendris  
 **Prénom** : Alwyn  
 *Surnom* : Rossignol  
@@ -27,7 +28,8 @@ univers: Darkness Haunted
   
 *Créature* : Ensorceleur  
   
-**# ──────༺ Physique ༻──────**{: #u}  
+# **──────༺ Physique ༻──────**{: #u}  
+  
 *Taille* : 180cm  
 *Musculature* : Fine, svelte  
   
@@ -54,7 +56,8 @@ Vêtue, on ne remarque pas les nombreuses cicatrices qu'Alwyn a sur le corps. De
 Elle affectionne particulièrement les vêtements noirs : pantalon, chemisier, chemise... Parfois, une pointe de couleur, avec une cravate rouge.   
   
 Sa voix est particulière. Rauque — presque gutturale et étonnamment grave — avec une sorte de "grain", qui s'entend notamment lorsqu'elle rit.   
-**# ──────༺ Mental ༻──────**{: #u}  
+# **──────༺ Mental ༻──────**{: #u}  
+  
 Alwyn est une personne... Profondément détestable. Intelligente, mais profondément détestable. Elle n'a absolument aucune empathie, et ne semble ressentir du plaisir qu'en tuant.   
 Alwyn... Alwyn se définit comme le chaos. Elle n'aime, et n'apprécie que ça. Tuer, détruire, c'est ce qui lui rappelle le plus la définition de vie. Mais Alwyn est aussi une scientifique. Une génie de la physique et des mathématiques. Elle comprend tout sur le monde, et veut en savoir plus. Elle recherche tout, car à ses yeux, elle n'a pas finit de découvrir.  
   
@@ -75,7 +78,8 @@ Cela dit, si on l'attaque... C'est une autre histoire. De la légitime défense,
 **Phobie** : Les seringues. Alwyn, bien qu'elle ne le montre pas, ne supporte pas les injections et les seringues et fera **tout** pour les éviter. Si on force une injection sur elle, et bien... Elle se mettra dans une colère noire. Elle ne fuiera pas devant le danger, mais pourra être excessivement violente.  
 **Tempérament** : Pour résumé, Alwyn est une personne **chaotique** et **instable**.  
 **Objectifs** : Détruire Ankaa pour le reconstruire.   
-**# ──────༺ Capacités ༻──────**{: #u}**Pouvoir :** [[Pixellisation]]  
+# **──────༺ Capacités ༻──────**{: #u}  
+**Pouvoir :** [[Pixellisation]]  
 **Capacités** : Alwyn semble se déplacer de manière quasiment instantanée (comme une téléportation) en se décomposant en cube nommé "Pixel" par l'intéressée. Se faisant, elle est capable de convertir ses pixels pour se soigner en convertissant sa biomasse excédentaire, mais aussi téléporter des objets en les convertissant.  
 1. **_Téléportation_** : Alwyn se téléporte sur une courte distance.  
 	- *Nombre de déplacement* : Une par tour  
@@ -107,4 +111,4 @@ Cela dit, si on l'attaque... C'est une autre histoire. De la légitime défense,
 Deux Karambit ![300+rside](../assets/img/karambit.png)  
   
   
-**# ─────༺ Histoire ༻──────**{: #u}
+# **─────༺ Histoire ༻──────**{: #u}

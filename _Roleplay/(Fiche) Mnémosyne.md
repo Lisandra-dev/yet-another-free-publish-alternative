@@ -5,7 +5,6 @@ description: Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante.
 flux: true
 folder: Roleplay
 image: Mnémosyne
-link: https://owlly-house.netlify.app/Roleplay/(Lagendia)-Mnémosyne
 obsidianUIMode: preview
 publish: true
 share: true
@@ -95,6 +94,7 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.   
   
 **→ [[Illustration (Némo)\|Illustration]]**{: #left}  
+  
 # <center>╔═══━━━─── • ───━━━═══╗</center>  
 # <center>H i s t o i r e</center>  
 # <center>╚═══━━━─── • ───━━━═══╝</center>  
