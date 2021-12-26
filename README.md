@@ -123,7 +123,6 @@ optional arguments:
 
 # Frontmatter and metadata
 ## Script
-
 The script work with the frontmatter :
 - `share: true` : Share the file
 - `embed: false` : remove the transluction (convert to normal wikilinks)
@@ -140,6 +139,16 @@ NB : if `category` and `folder` is used at the same time, `folder` will be used 
 - `flux: false` : remove the file from the feed
 - `description` : Add a description of the file in the feed. 
 - `category: false` : Remove the file from the category feed ; Category is a classement for your file. 
+
+## Exemple of frontmatter :
+```yml
+category: Roleplay/Application
+date: 21-12-2021
+share: true
+tag: RP/Darkness-Haunted/Application/PC
+title: (Darkness Haunted) Alwyn Kallendris
+```
+The file will be added in the `Roleplay` folder ; and the `Application` will now show the file in the sidebar, the Roleplay page and the collections page. 
 
 ### Folder options
 The metadata key `folder` allow to use another folder than `_note`.
