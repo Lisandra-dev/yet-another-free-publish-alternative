@@ -124,7 +124,7 @@ optional arguments:
 # Frontmatter and metadata
 ## Script
 The script work with the frontmatter :
-- `share: true` : Share the file
+- `share: true` : Share the file (this key can be changed in the configuration !)
 - `embed: false` : remove the transluction (convert to normal wikilinks)
 - `update: false` : Don't update the file at all. 
 - `current: false` : Don't update the date
